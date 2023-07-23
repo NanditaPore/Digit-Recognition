@@ -36,8 +36,10 @@ Examples
 Here are some examples of the model's predictions on random samples from the test set:
 
 Example 1
+![Example 1](image1.png)
 
 Example 2
+![Example 1](image2.png)
 
 Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please feel free to create a pull request.
