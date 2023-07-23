@@ -49,11 +49,6 @@ The implementation in this repository is based on the guidance provided by the O
 
 The MNIST dataset is a widely-used benchmark for handwritten digit recognition, and it is available through TensorFlow's dataset library.
 
-License
-This project is licensed under the MIT License.
+## License
 
-Replace the [LICENSE] link in the above write-up with a direct link to your LICENSE file.
-
-Make sure to add any relevant images to the images folder in your repository and update the image paths in the write-up accordingly.
-
-With this write-up, users visiting your GitHub repository will have a clear understanding of the project, its purpose, and how to run the code.
+This project is licensed under the [MIT License](./LICENSE).
